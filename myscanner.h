@@ -1,0 +1,10 @@
+#define INTERGER 1
+#define FLOAT 2
+#define CONSTANTS 3
+#define IF 4
+#define ELSE 5
+#define IDENTIFIER 6
+#define ERROR 7
+#define OPERATOR 8
+#define COMMA 9
+#define END 10
