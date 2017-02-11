@@ -1,0 +1,14 @@
+begin()
+
+Matrix Mat;
+Number n1,n2;
+
+Mat=[1,2,3;3,5,4];
+n1=value(Mat);
+n2=5;
+n1=n1+n2;
+
+Mat.zerox();
+n1.zerox();
+
+end
